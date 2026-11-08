@@ -1,19 +1,21 @@
-# Homework 3 — Word count with HashMap
+# Rust homeworks
 
 Author: Berk Kirmizigul
 
-Solution: [`kirmizigul_berk.rs`](kirmizigul_berk.rs)
+| Homework | Topic | File |
+|---|---|---|
+| 1 | Vectors, slices, structs and methods | [`hw01_kirmizigul_berk.rs`](hw01_kirmizigul_berk.rs) |
+| 2 | Calculator operators and a number stack | [`hw02_kirmizigul_berk.rs`](hw02_kirmizigul_berk.rs) |
+| 3 | Word count with HashMap | [`kirmizigul_berk.rs`](kirmizigul_berk.rs) |
 
-Functions: `count_words`, `count_of`, `total_words`, `sorted_words`.
-
-Run:
+Run a homework:
 
 ```sh
-rustc kirmizigul_berk.rs && ./kirmizigul_berk
+rustc hw01_kirmizigul_berk.rs && ./hw01_kirmizigul_berk
 ```
 
-Run tests:
+Run its tests:
 
 ```sh
-rustc --test kirmizigul_berk.rs -o tests && ./tests
+rustc --test hw01_kirmizigul_berk.rs -o tests && ./tests
 ```
