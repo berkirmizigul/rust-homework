@@ -7,6 +7,7 @@ Author: Berk Kirmizigul
 | 1 | Vectors, slices, structs and methods | [`hw01_kirmizigul_berk.rs`](hw01_kirmizigul_berk.rs) |
 | 2 | Calculator operators and a number stack | [`hw02_kirmizigul_berk.rs`](hw02_kirmizigul_berk.rs) |
 | 3 | Word count with HashMap | [`kirmizigul_berk.rs`](kirmizigul_berk.rs) |
+| 4 | Either: our own Result, chained with flat_map | [`homework04_kirmizigul_berk.rs`](homework04_kirmizigul_berk.rs) |
 
 Run a homework:
 
